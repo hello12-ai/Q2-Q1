@@ -1,0 +1,17 @@
+body {
+  background-color: burlywood;
+}
+
+h1 {
+  color: grey;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+}
+
+img {
+  width: 100%;
+}
